@@ -3,7 +3,7 @@
     🔭 I’m currently working on Python & Backend Development
     🌱 I’m currently learning CI/CD & Docker  
     💬 Ask me about working in Tech, Python, Living A Better Life.
-    📫 How to reach me: tech.09.life@gmail.com & Twitter @_jaydeepkarale
+    📫 How to reach me: [@_jaydeepkarale](https://twitter.com/_jaydeepkarale)
     ⚡ Non Tech Fact: Love reading & follow Manchester United
 
 
