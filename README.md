@@ -5,7 +5,7 @@
 <a href="https://leetcode.com/jaydeepkarale/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <div align=center>
   <h1> Hi, I’m Jaydeep Karale 👋</h1>
-    <p> 🐍 Python Backend Developer & 🤖 AI/Ml Enthusiast </p>
+    <p> 🐍 Python Backend Developer 🤖 AI/Ml Enthusiast </p>
 </div>
 
 
